@@ -52,6 +52,7 @@ https://stellar.expert/explorer/testnet/tx/db980872d4cfcfa93074cbcd9b4b20fe333bf
 ```
 
 Contract link: https://stellar.expert/explorer/testnet/contract/CDLX4MDSCECOWGRUGPNUMQ5X4SYAZEHDY7V4NEEICBW5LFZGASDMIJI5
+
 Contract screenshot:
 ![Contract screenshot](./contract.png)
 
