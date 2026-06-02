@@ -51,9 +51,9 @@ https://stellar.expert/explorer/testnet/tx/0ac9095a6c6f461c17a5f39b658d8a87cbb36
 https://stellar.expert/explorer/testnet/tx/db980872d4cfcfa93074cbcd9b4b20fe333bf3917cac9f9a37be7fb5d9378710
 ```
 
+Contract link: https://stellar.expert/explorer/testnet/contract/CDLX4MDSCECOWGRUGPNUMQ5X4SYAZEHDY7V4NEEICBW5LFZGASDMIJI5
 Contract screenshot:
-
-![Contract screenshot](./contract-detail.png)
+![Contract screenshot](./contract.png)
 
 ## Example Interaction
 
